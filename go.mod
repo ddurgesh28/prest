@@ -1,6 +1,6 @@
 module github.com/ibigfoot/prest
 
-// +heroku install ./vendor/...
+// +heroku install ./...
 
 require (
 	github.com/auth0/go-jwt-middleware v0.0.0-20170425171159-5493cabe49f7 // indirect
