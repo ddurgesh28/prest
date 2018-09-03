@@ -1,5 +1,7 @@
 module github.com/prest/prest
 
+// +heroku install ./vendor/...
+
 require (
 	github.com/auth0/go-jwt-middleware v0.0.0-20170425171159-5493cabe49f7 // indirect
 	github.com/clbanning/mxj v1.8.1 // indirect
