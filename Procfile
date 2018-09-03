@@ -1,1 +1,1 @@
-web: prest PREST_HTTP_PORT=$PORT
+web: PREST_HTTP_PORT=$PORT prest 
