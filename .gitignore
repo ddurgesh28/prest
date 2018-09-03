@@ -33,3 +33,5 @@ prest-*
 prest.toml
 
 .env
+/vendor
+go.sum
