@@ -6,7 +6,13 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/prest/prest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Open Source Helpers](https://www.codetriage.com/prest/prest/badges/users.svg)](https://www.codetriage.com/prest/prest)
 
-Serve a RESTful API from any PostgreSQL database
+Serve a RESTful API from any PostgreSQL database, forked and updated to deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+This doesn't deploy a Postgres database for you on purpose, you should attach your Postgres database manually. 
+
+## WARNING!!##
+This version has JWT auth disabled by default.. don't deploy unless you want to expose your DB to the world! 
 
 ## Postgres version
 
