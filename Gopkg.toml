@@ -24,6 +24,9 @@
 #   go-tests = true
 #   unused-packages = true
 
+[metadata.heroku]
+  root-package = "github.com/ibigfoot/prest"
+  go-version = "go1.11"
 
 [[constraint]]
   branch = "master"
