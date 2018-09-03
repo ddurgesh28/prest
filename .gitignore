@@ -31,3 +31,5 @@ data/
 prest-*
 /dist
 prest.toml
+
+.env

@@ -1,4 +1,4 @@
-module github.com/prest/prest
+module github.com/ibigfoot/prest
 
 // +heroku install ./vendor/...
 
