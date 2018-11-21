@@ -30,8 +30,6 @@ data/
 # pREST
 prest-*
 /dist
-prest.toml
-prest
 
 .env
 /vendor
