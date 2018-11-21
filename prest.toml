@@ -1,4 +1,7 @@
 
 
 [jwt]
-default=true
+default=false
+key = "secret"
+algo = "HS256"
+
